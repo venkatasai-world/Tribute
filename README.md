@@ -16,4 +16,4 @@ This is a simple tribute webpage dedicated to Swami Vivekananda. The page includ
 Simply open the `index.html` file in your browser to view the tribute page.
 
 ## Author
-Created with ❤️ by Venkatasai Merugu
+developed by Venkatasai Merugu
