@@ -44,8 +44,7 @@ Tribute/
 ### Output 1
 
 ```bash
-result/tribute1.png
-```
+result/tribute1.png```
 
 ### Output 2
 
