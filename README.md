@@ -44,7 +44,8 @@ Tribute/
 ### Output 1
 
 ```bash
-result/tribute1.png```
+result/tribute1.png
+```
 
 ### Output 2
 
@@ -54,9 +55,57 @@ result/tribute2.png
 
 ---
 
+## ▶️ How to Use
+
+### 1️⃣ Clone the Repository
+
+```bash
+git clone https://github.com/venkatasai-world/Tribute.git
+```
+
+### 2️⃣ Navigate to the Project Folder
+
+```bash
+cd Tribute
+```
+
+### 3️⃣ Open the Project
+
+Open the `index.html` file in your browser.
+
+---
+
+## 🌟 About the Project
+
+This project was created to honor and showcase the inspirational life of Swami Vivekananda through a clean and responsive tribute webpage.
+
+---
+
+## 🎯 Learning Objectives
+
+This project helps beginners understand:
+
+- HTML Structure
+- CSS Styling
+- Responsive Design
+- Layout Creation
+- Image Positioning
+
+---
+
+## 🌟 Future Improvements
+
+- Add animations and transitions
+- Add dark mode support
+- Include more quotes and achievements
+- Add image gallery section
+- Improve mobile responsiveness
+
+---
+
 ## 🔗 GitHub Repository
 
-:contentReference[oaicite:0]{index=0}
+[Tribute GitHub Repository](https://github.com/venkatasai-world/Tribute)
 
 ---
 
