@@ -43,15 +43,11 @@ Tribute/
 
 ### Output 1
 
-```bash
-result/tribute1.png
-```
+<img src="result/tribute1.png" width="100%" alt="Tribute Page Output 1">
 
 ### Output 2
 
-```bash
-result/tribute2.png
-```
+<img src="result/tribute2.png" width="100%" alt="Tribute Page Output 2">
 
 ---
 
