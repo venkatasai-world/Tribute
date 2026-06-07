@@ -101,7 +101,7 @@ This project helps beginners understand:
 
 ## 🔗 GitHub Repository
 
-[Tribute GitHub Repository](https://github.com/venkatasai-world/Tribute)
+[Tribute GitHub Repository]-->(https://github.com/venkatasai-world/Tribute)
 
 ---
 
